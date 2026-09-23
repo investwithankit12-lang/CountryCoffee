@@ -1,0 +1,6 @@
+{
+  "name": "Country Coffees | Premium Coffee House & Restaurant",
+  "description": "Visit Country Coffees in Sector 2, Bidhannagar, Kolkata for coffee, food and memorable dining experiences. Explore the menu, reserve a table and order online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
